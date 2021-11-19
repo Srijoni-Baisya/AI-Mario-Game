@@ -1,0 +1,41 @@
+.heading{
+    width: 100%;
+    text-align: center;
+    box-shadow: 5px 5px 10px lightcyan;
+}
+.heading h3{
+    display: inline;
+    font-size: 30px;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+    font-size: 20px;
+}
+
+.big_image{
+    width: 100%;
+}
+
+#start,#status{
+    font-size: 22px;
+}
+
+body{
+    font-family: 'Playfair Display', serif;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
+
+h4{
+    background-color: white;
+    line-height: 2;
+    margin: 0px;
+}
