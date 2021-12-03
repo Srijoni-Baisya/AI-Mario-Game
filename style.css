@@ -39,3 +39,11 @@ h4{
     line-height: 2;
     margin: 0px;
 }
+
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 35px;
+
+}
